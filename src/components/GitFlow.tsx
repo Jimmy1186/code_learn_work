@@ -2,7 +2,11 @@ import React from 'react'
 
 const GitFlow = () => {
   return (
-    <div>1</div>
+    <div className="">
+          <div>1</div>
+    <p>dev</p>
+    </div>
+  
   )
 }
 
