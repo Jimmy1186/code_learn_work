@@ -5,6 +5,7 @@ const GitFlow = () => {
     <div className="">
           <div>1</div>
     <p>dev</p>
+    <p>dev1</p>
     </div>
   
   )
