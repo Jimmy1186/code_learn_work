@@ -2,7 +2,7 @@ import React from 'react'
 
 const Neew = () => {
   return (
-    <div>Neew</div>
+    <div>this is worse </div>
   )
 }
 
