@@ -18,6 +18,11 @@ const Gree = (props: Msg) => {
         <h2>second</h2>
         <input type="text" title="secondInput" />
       </div>
+
+      <div className="">
+        <h2>third</h2>
+        <input type="text" title="secondInput" />
+      </div>
     </div>
   );
 };
