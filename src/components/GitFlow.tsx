@@ -7,6 +7,7 @@ const GitFlow = () => {
     <p>dev</p>
     <p>dev1</p>
     <p>f1</p>
+    <p>f2</p>
     </div>
   
   )
