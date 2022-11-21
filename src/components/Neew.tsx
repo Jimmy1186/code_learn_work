@@ -7,6 +7,7 @@ const Neew = () => {
       hot dog
     </div>
     <div>this is better ok fine lets do it 1</div>
+    <p>better commit </p>
     </div>
    
   )
