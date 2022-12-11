@@ -1,11 +1,10 @@
-import Gree from "./components/Gree";
-
+import Light from "./components/Light";
 
 function App() {
+
   return (
     <div className="App">
-      hello
-    <Gree />
+      <Light />
     </div>
   );
 }
